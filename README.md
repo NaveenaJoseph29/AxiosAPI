@@ -10,9 +10,6 @@
   - [Usage](#usage)
   - [Technologies Used](#technologies-used)
  
-## Netlify Deployed URL
-
-🔸*Check out My CRUD AXIOS TASK Here*👉🏻 [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://crud-axios-react-task-6.netlify.app/)
 
 ## Features
 
